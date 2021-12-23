@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=300&section=header&text=Hamin's%20GitHub&fontSize=50&animation=fadeIn)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjason-choi-484268207%2F&count_bg=%2336F1F3&title_bg=%23AEB8BA&icon=github.svg&icon_color=%23000000&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjason-choi-484268207%2F&count_bg=%2336F1F3&title_bg=%23AEB8BA&icon=logmein.svg&icon_color=%233888CA&title=LinkedIn&edge_flat=false)](https://hits.seeyoufarm.com)                   
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
