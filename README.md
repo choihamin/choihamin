@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=300&section=header&text=Hamin's%20GitHub&fontSize=50&animation=fadeIn)                
 
-Hi there 👋
+## Hi there 👋
 
-I'm AI Developer using Python(Tensorflow + keras)
-Sometimes I develop Web as a full-stack developer (using Python Flask + postgreSql)
+- My name is Hamin Choi
+- I'm Graduated from Korea Univ.
+- I'm AI developer (using Python with Tensorflow + Keras + Pytorch)
+- I'm Back-End developer (using Python with Flask + PostgreSql)
+- I'm Front-End developer (using Html + Css + JavaScript) 
+
 
 ----
 ### Usable Programming Languag 💬
