@@ -56,8 +56,8 @@ Sometimes I develop Web as a full-stack developer (using Python Flask + postgreS
 ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
 <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihamin&&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choihamin&langs_count=8)](https://github.com/choihamin/github-readme-stats)
