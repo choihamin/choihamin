@@ -1,15 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=300&section=header&text=Hamin's%20GitHub&fontSize=50&animation=fadeIn)<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjason-choi-484268207%2F&count_bg=%2336F1F3&title_bg=%23AEB8BA&icon=github.svg&icon_color=%23000000&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjason-choi-484268207%2F&count_bg=%2336F1F3&title_bg=%23AEB8BA&icon=logmein.svg&icon_color=%233888CA&title=LinkedIn&edge_flat=false)](https://hits.seeyoufarm.com)                   
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=300&section=header&text=Hamin's%20GitHub&fontSize=50&animation=fadeIn)                
 
 Hi there 👋
 
 I'm AI Developer using Python(Tensorflow + keras)
 Sometimes I develop Web as a full-stack developer (using Python Flask + postgreSql)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihamin&&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choihamin&langs_count=8)](https://github.com/choihamin/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jason4284@korea.ac.kr)](https://solved.ac/jason4284/)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -50,6 +45,12 @@ Sometimes I develop Web as a full-stack developer (using Python Flask + postgreS
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihamin&&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choihamin&langs_count=8)](https://github.com/choihamin/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jason4284@korea.ac.kr)](https://solved.ac/jason4284/)
 
 
 
