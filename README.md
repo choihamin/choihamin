@@ -9,8 +9,7 @@ Sometimes I develop Web as a full-stack developer (using Python Flask + postgreS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihamin&&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choihamin&langs_count=8)](https://github.com/choihamin/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jason4284)](https://solved.ac/jason4284)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jason4284)](https://solved.ac/jason4284/)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
