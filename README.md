@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 - My name is **Hamin Choi**
-- I'll Graduate from **Korea Univ**.
+- I'll Graduate from **Korea Univ** (On coming Feb, 2022).
 - I'm **AI developer** (using Python with Tensorflow + Keras + Pytorch)
 - I'm **Back-End developer** (using Python with Flask + PostgreSql)
 - I'm **Front-End developer** (using Html + Css + JavaScript) 
